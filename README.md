@@ -1,6 +1,3 @@
-Here’s the full translation into English:
-
----
 
 **I. Analysis of the Vibration Problem**
 
